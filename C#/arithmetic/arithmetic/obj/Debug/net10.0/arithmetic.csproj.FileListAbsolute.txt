@@ -1,0 +1,16 @@
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\bin\Debug\net10.0\arithmetic.exe
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\bin\Debug\net10.0\arithmetic.deps.json
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\bin\Debug\net10.0\arithmetic.runtimeconfig.json
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\bin\Debug\net10.0\arithmetic.dll
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\bin\Debug\net10.0\arithmetic.pdb
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\arithmetic.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\arithmetic.AssemblyInfo.cs
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\arithmetic.sourcelink.json
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\arithmetic.dll
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\refint\arithmetic.dll
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\arithmetic.pdb
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\arithmetic.genruntimeconfig.cache
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\ref\arithmetic.dll
+C:\Users\ally\Desktop\studies\C#\arithmetic\arithmetic\obj\Debug\net10.0\arithmetic.csproj.Up2Date
