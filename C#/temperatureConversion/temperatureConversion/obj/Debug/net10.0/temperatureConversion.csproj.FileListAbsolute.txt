@@ -1,0 +1,16 @@
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\bin\Debug\net10.0\temperatureConversion.exe
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\bin\Debug\net10.0\temperatureConversion.deps.json
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\bin\Debug\net10.0\temperatureConversion.runtimeconfig.json
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\bin\Debug\net10.0\temperatureConversion.dll
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\bin\Debug\net10.0\temperatureConversion.pdb
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\temperatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\temperatureConversion.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\temperatureConversion.AssemblyInfo.cs
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\temperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\temperatureConversion.sourcelink.json
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\temperatureConversion.dll
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\refint\temperatureConversion.dll
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\temperatureConversion.pdb
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\temperatureConversion.genruntimeconfig.cache
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\ref\temperatureConversion.dll
+C:\Users\ally\Desktop\studies\C#\temperatureConversion\temperatureConversion\obj\Debug\net10.0\temperat.A8A32BFC.Up2Date

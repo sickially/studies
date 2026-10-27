@@ -1,0 +1,16 @@
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\bin\Debug\net10.0\ageCalculator.exe
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\bin\Debug\net10.0\ageCalculator.deps.json
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\bin\Debug\net10.0\ageCalculator.runtimeconfig.json
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\bin\Debug\net10.0\ageCalculator.dll
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\bin\Debug\net10.0\ageCalculator.pdb
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\ageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\ageCalculator.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\ageCalculator.AssemblyInfo.cs
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\ageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\ageCalculator.sourcelink.json
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\ageCalculator.dll
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\refint\ageCalculator.dll
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\ageCalculator.pdb
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\ageCalculator.genruntimeconfig.cache
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\ref\ageCalculator.dll
+C:\Users\ally\Desktop\studies\C#\ageCalculator\ageCalculator\obj\Debug\net10.0\ageCalcu.70586CA3.Up2Date
