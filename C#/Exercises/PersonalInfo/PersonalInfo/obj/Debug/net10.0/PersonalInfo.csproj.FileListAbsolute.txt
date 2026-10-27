@@ -1,0 +1,16 @@
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\bin\Debug\net10.0\PersonalInfo.exe
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\bin\Debug\net10.0\PersonalInfo.deps.json
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\bin\Debug\net10.0\PersonalInfo.runtimeconfig.json
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\bin\Debug\net10.0\PersonalInfo.dll
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\bin\Debug\net10.0\PersonalInfo.pdb
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\PersonalInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\PersonalInfo.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\PersonalInfo.AssemblyInfo.cs
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\PersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\PersonalInfo.sourcelink.json
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\PersonalInfo.dll
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\refint\PersonalInfo.dll
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\PersonalInfo.pdb
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\PersonalInfo.genruntimeconfig.cache
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\ref\PersonalInfo.dll
+C:\Users\ally\Desktop\studies\C#\PersonalInfo\PersonalInfo\obj\Debug\net10.0\Personal.D9783885.Up2Date

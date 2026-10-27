@@ -1,0 +1,16 @@
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\bin\Debug\net10.0\BasicCalculator.exe
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\bin\Debug\net10.0\BasicCalculator.deps.json
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\bin\Debug\net10.0\BasicCalculator.runtimeconfig.json
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\bin\Debug\net10.0\BasicCalculator.dll
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\bin\Debug\net10.0\BasicCalculator.pdb
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\BasicCalculator.AssemblyInfo.cs
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\BasicCalculator.sourcelink.json
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\BasicCalculator.dll
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\refint\BasicCalculator.dll
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\BasicCalculator.pdb
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\BasicCalculator.genruntimeconfig.cache
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\ref\BasicCalculator.dll
+C:\Users\ally\Desktop\studies\C#\BasicCalculator\BasicCalculator\obj\Debug\net10.0\BasicCal.E684EF6F.Up2Date

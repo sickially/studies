@@ -1,0 +1,16 @@
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\bin\Debug\net10.0\circleArea.exe
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\bin\Debug\net10.0\circleArea.deps.json
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\bin\Debug\net10.0\circleArea.runtimeconfig.json
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\bin\Debug\net10.0\circleArea.dll
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\bin\Debug\net10.0\circleArea.pdb
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\circleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\circleArea.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\circleArea.AssemblyInfo.cs
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\circleArea.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\circleArea.sourcelink.json
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\circleArea.dll
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\refint\circleArea.dll
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\circleArea.pdb
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\circleArea.genruntimeconfig.cache
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\ref\circleArea.dll
+C:\Users\ally\Desktop\studies\C#\Exercises\circleArea\circleArea\obj\Debug\net10.0\circleArea.csproj.Up2Date
