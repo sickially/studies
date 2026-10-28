@@ -1,0 +1,16 @@
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\bin\Debug\net10.0\gradeAverage.exe
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\bin\Debug\net10.0\gradeAverage.deps.json
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\bin\Debug\net10.0\gradeAverage.runtimeconfig.json
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\bin\Debug\net10.0\gradeAverage.dll
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\bin\Debug\net10.0\gradeAverage.pdb
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\gradeAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\gradeAverage.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\gradeAverage.AssemblyInfo.cs
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\gradeAverage.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\gradeAverage.sourcelink.json
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\gradeAverage.dll
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\refint\gradeAverage.dll
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\gradeAverage.pdb
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\gradeAverage.genruntimeconfig.cache
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\ref\gradeAverage.dll
+C:\Users\ally\Desktop\studies\C#\gradeAverage\gradeAverage\obj\Debug\net10.0\gradeAve.EC33508E.Up2Date

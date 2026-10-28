@@ -1,0 +1,16 @@
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\bin\Debug\net10.0\PiaoDoBau.exe
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\bin\Debug\net10.0\PiaoDoBau.deps.json
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\bin\Debug\net10.0\PiaoDoBau.runtimeconfig.json
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\bin\Debug\net10.0\PiaoDoBau.dll
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\bin\Debug\net10.0\PiaoDoBau.pdb
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\PiaoDoBau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\PiaoDoBau.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\PiaoDoBau.AssemblyInfo.cs
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\PiaoDoBau.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\PiaoDoBau.sourcelink.json
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\PiaoDoBau.dll
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\refint\PiaoDoBau.dll
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\PiaoDoBau.pdb
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\PiaoDoBau.genruntimeconfig.cache
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\ref\PiaoDoBau.dll
+C:\Users\ally\Desktop\studies\C#\PiaoDoBau\PiaoDoBau\obj\Debug\net10.0\PiaoDoBau.csproj.Up2Date

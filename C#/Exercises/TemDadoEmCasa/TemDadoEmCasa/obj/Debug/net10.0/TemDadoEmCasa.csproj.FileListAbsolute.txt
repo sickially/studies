@@ -1,0 +1,16 @@
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\bin\Debug\net10.0\TemDadoEmCasa.exe
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\bin\Debug\net10.0\TemDadoEmCasa.deps.json
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\bin\Debug\net10.0\TemDadoEmCasa.runtimeconfig.json
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\bin\Debug\net10.0\TemDadoEmCasa.dll
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\bin\Debug\net10.0\TemDadoEmCasa.pdb
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\TemDadoEmCasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\TemDadoEmCasa.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\TemDadoEmCasa.AssemblyInfo.cs
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\TemDadoEmCasa.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\TemDadoEmCasa.sourcelink.json
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\TemDadoEmCasa.dll
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\refint\TemDadoEmCasa.dll
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\TemDadoEmCasa.pdb
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\TemDadoEmCasa.genruntimeconfig.cache
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\ref\TemDadoEmCasa.dll
+C:\Users\ally\Desktop\studies\C#\TemDadoEmCasa\TemDadoEmCasa\obj\Debug\net10.0\TemDadoE.135D5395.Up2Date
