@@ -1,2 +1,2 @@
 # Some of my studies
-![](https://github.com/sickially/miku-eating.gif)
+![](https://github.com/studies/miku.gif)
