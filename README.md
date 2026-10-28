@@ -1,2 +1,4 @@
 # Some of my studies
-![](https://github.com/studies/miku.gif)
+<div align="center">
+<img  width="280px" src="./miku.gif" />
+</div>
