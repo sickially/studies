@@ -1,0 +1,16 @@
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\bin\Debug\net10.0\RPGCharacterGenerator.exe
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\bin\Debug\net10.0\RPGCharacterGenerator.deps.json
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\bin\Debug\net10.0\RPGCharacterGenerator.runtimeconfig.json
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\bin\Debug\net10.0\RPGCharacterGenerator.dll
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\bin\Debug\net10.0\RPGCharacterGenerator.pdb
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\RPGCharacterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\RPGCharacterGenerator.AssemblyInfoInputs.cache
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\RPGCharacterGenerator.AssemblyInfo.cs
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\RPGCharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\RPGCharacterGenerator.sourcelink.json
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\RPGCharacterGenerator.dll
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\refint\RPGCharacterGenerator.dll
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\RPGCharacterGenerator.pdb
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\RPGCharacterGenerator.genruntimeconfig.cache
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\ref\RPGCharacterGenerator.dll
+C:\Users\ally\Desktop\studies\C#\RPGCharacterGenerator\RPGCharacterGenerator\obj\Debug\net10.0\RPGChara.ACD93339.Up2Date

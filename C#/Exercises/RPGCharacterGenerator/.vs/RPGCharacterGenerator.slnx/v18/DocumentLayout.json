@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ally\\Desktop\\studies\\C#\\RPGCharacterGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE68603-9F8B-44B8-AD11-E0EF429B74EC}|RPGCharacterGenerator\\RPGCharacterGenerator.csproj|c:\\users\\ally\\desktop\\studies\\c#\\rpgcharactergenerator\\rpgcharactergenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE68603-9F8B-44B8-AD11-E0EF429B74EC}|RPGCharacterGenerator\\RPGCharacterGenerator.csproj|solutionrelative:rpgcharactergenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ally\\Desktop\\studies\\C#\\RPGCharacterGenerator\\RPGCharacterGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "RPGCharacterGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\ally\\Desktop\\studies\\C#\\RPGCharacterGenerator\\RPGCharacterGenerator\\Program.cs",
+              "RelativeToolTip": "RPGCharacterGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:04:22.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
